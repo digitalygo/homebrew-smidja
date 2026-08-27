@@ -1,7 +1,7 @@
 class Smidja < Formula
   desc "Agentic coding harness shipped as a single static binary"
   homepage "https://github.com/digitalygo/smidja"
-  url "https://github.com/digitalygo/smidja/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/digitalygo/smidja/archive/refs/tags/v0.2.0.tar.gz"
   sha256 "154809153725dde8175da640432244c5adf0d7b15348b65030d69c2d210ce774"
   license "MIT"
 
